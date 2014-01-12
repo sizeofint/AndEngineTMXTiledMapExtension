@@ -70,6 +70,12 @@ public interface TMXConstants {
 	public static final String TAG_OBJECTGROUP_ATTRIBUTE_WIDTH = "width";
 	public static final String TAG_OBJECTGROUP_ATTRIBUTE_HEIGHT = "height";
 
+	public static final String TAG_OBJECT_POLYLINE = "polyline";
+	public static final String TAG_OBJECT_POLYLINE_ATTRIBUTE_NAME = "name";
+	public static final String TAG_OBJECT_POLYLINE_ATTRIBUTE_TYPE = "type";
+	public static final String TAG_OBJECT_POLYLINE_ATTRIBUTE_POINTS = "points";
+	
+	
 	public static final String TAG_OBJECT = "object";
 	public static final String TAG_OBJECT_ATTRIBUTE_NAME = "name";
 	public static final String TAG_OBJECT_ATTRIBUTE_TYPE = "type";
